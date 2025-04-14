@@ -3484,3 +3484,53 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Apr2025 18:40:36.336] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b042d1b7-0784-32e2-9baa-ecd241742ddb
 [14Apr2025 18:40:36.343] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Miglaitor_ (b042d1b7-0784-32e2-9baa-ecd241742ddb) successfully connected to voice chat
 [14Apr2025 18:40:51.268] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
+[14Apr2025 18:46:30.336] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2112ms or 42 ticks behind
+[14Apr2025 18:48:39.293] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7049bc56
+[14Apr2025 18:48:39.298] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Freacklock[/100.121.40.72:49987] logged in with entity id 7610 at (189.5, 64.0, 156.5)
+[14Apr2025 18:48:39.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock joined the game
+[14Apr2025 18:48:39.379] [Server thread/INFO] [Waila/]: Syncing config to Freacklock (f32b1d7a-5eef-3918-8041-62708bf3cf92)
+[14Apr2025 18:48:40.432] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock has made the advancement [Integrated Dungeons and Structures]
+[14Apr2025 18:48:42.049] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Freacklock (18)
+[14Apr2025 18:48:42.050] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Freacklock
+[14Apr2025 18:48:42.317] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of f32b1d7a-5eef-3918-8041-62708bf3cf92 was loaded
+[14Apr2025 18:48:46.071] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f32b1d7a-5eef-3918-8041-62708bf3cf92
+[14Apr2025 18:48:47.119] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f32b1d7a-5eef-3918-8041-62708bf3cf92
+[14Apr2025 18:48:47.122] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Freacklock (f32b1d7a-5eef-3918-8041-62708bf3cf92) successfully connected to voice chat
+[14Apr2025 18:49:08.498] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Starter Kit config updated. All new players will now receive your current inventory.]
+[14Apr2025 18:49:29.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set the time to 1000]
+[14Apr2025 18:49:29.774] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9412 in minecraft:overworld
+[14Apr2025 18:49:29.798] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9412 in minecraft:the_nether
+[14Apr2025 18:49:29.798] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9412 in minecraft:the_end
+[14Apr2025 18:49:29.798] [Server thread/INFO] [sereneseasons/]: Season time skipped by 9412 in mineminenomi:challenges
+[14Apr2025 18:49:36.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Miglaitor_ has made the advancement [Monster Hunter]
+[14Apr2025 18:50:01.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock was killed by Marine Grunt
+[14Apr2025 18:50:40.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Starter Kit config updated. All new players will now receive your current inventory.]
+[14Apr2025 18:51:00.750] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=200, y=63, z=145}
+[14Apr2025 18:51:00.797] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=200, y=63, z=145}
+[14Apr2025 18:51:01.053] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=201, y=63, z=145}
+[14Apr2025 18:51:01.106] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=201, y=63, z=146}
+[14Apr2025 18:51:01.147] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=201, y=63, z=145}
+[14Apr2025 18:51:01.398] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=201, y=63, z=145}
+[14Apr2025 18:51:01.451] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=201, y=63, z=145}
+[14Apr2025 18:51:01.498] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=200, y=63, z=145}
+[14Apr2025 18:51:01.597] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=200, y=63, z=145}
+[14Apr2025 18:51:01.701] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=200, y=63, z=145}
+[14Apr2025 18:51:02.047] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=199, y=63, z=145}
+[14Apr2025 18:51:02.156] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=199, y=63, z=145}
+[14Apr2025 18:51:02.254] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=199, y=63, z=145}
+[14Apr2025 18:51:02.302] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=199, y=63, z=145}
+[14Apr2025 18:51:02.354] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=199, y=63, z=145}
+[14Apr2025 18:51:02.400] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=200, y=63, z=146}
+[14Apr2025 18:51:02.502] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=200, y=63, z=146}
+[14Apr2025 18:51:02.547] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=200, y=63, z=146}
+[14Apr2025 18:51:03.049] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=202, y=63, z=146}
+[14Apr2025 18:51:03.100] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=202, y=63, z=147}
+[14Apr2025 18:51:03.199] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=202, y=63, z=147}
+[14Apr2025 18:51:03.247] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=202, y=63, z=147}
+[14Apr2025 18:51:03.298] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=203, y=63, z=147}
+[14Apr2025 18:51:03.398] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=203, y=63, z=147}
+[14Apr2025 18:51:03.445] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=203, y=63, z=147}
+[14Apr2025 18:51:05.554] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=202, y=63, z=147}
+[14Apr2025 18:51:05.854] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=201, y=63, z=147}
+[14Apr2025 18:51:09.147] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=202, y=63, z=148}
+[14Apr2025 18:52:47.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Miglaitor_ has made the advancement [Getting an Upgrade]
