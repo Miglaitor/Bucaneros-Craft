@@ -4,7 +4,7 @@
     "RandomReward": 0b,
     "QuestRepeat": 1,
     "QuestCompletion": 1,
-    "Title": "Molino 1",
+    "Title": "Ayuda a Yuzawa",
     "Text": "",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
@@ -32,7 +32,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1744843738862L,
+        "TimePast": 1744844273268L,
         "Time": 0L,
         "Subject": ""
     },

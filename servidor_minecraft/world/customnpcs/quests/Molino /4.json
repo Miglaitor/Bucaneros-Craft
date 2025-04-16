@@ -1,12 +1,12 @@
 {
     "CompleterNpc": "Yuzawa Kaho",
-    "NextQuestId": -1,
+    "NextQuestId": 5,
     "QuestLocation3": "",
     "RandomReward": 0b,
     "QuestLocation2": "",
-    "QuestRepeat": 0,
+    "QuestRepeat": 1,
     "QuestCompletion": 1,
-    "Title": "Molino zone",
+    "Title": "Encuentra el viejo molino",
     "Text": "Ve al molino siguiendo el camino de tierra
 ",
     "QuestFactionPoints": {
@@ -29,14 +29,42 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1744843730922L,
+        "TimePast": 1744844224997L,
         "Time": 0L,
         "Subject": ""
     },
     "Rewards": {
         "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "create:millstone",
+                "Count": 1b
+            },
+            {
+                "Slot": 1b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "create:windmill_bearing",
+                "Count": 1b
+            },
+            {
+                "Slot": 2b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "create:shaft",
+                "Count": 5b
+            }
         ]
     },
-    "CompleteText": "Repara el molino",
+    "CompleteText": "Repara el molino
+",
     "QuestLocation": "molino viejo"
 }
