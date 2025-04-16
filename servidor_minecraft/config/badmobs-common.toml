@@ -317,7 +317,7 @@
 	#Spawning options for minecraft:creeper
 	[minecraft.creeper]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should the entity spawn via mob conversion? i.e. villager -> zombie
 		allowConversions = true
 		#Should spawners be able to spawn the entity?
@@ -7401,48 +7401,6 @@
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
 
-#Options for the nefdecomod mod.
-[nefdecomod]
-
-	#Spawning options for nefdecomod:projectile_rock
-	[nefdecomod.projectile_rock]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
-	#Spawning options for nefdecomod:villager_old
-	[nefdecomod.villager_old]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
-	#Spawning options for nefdecomod:chair_entity
-	[nefdecomod.chair_entity]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should the entity spawn via mob conversion? i.e. villager -> zombie
-		allowConversions = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
 #Options for the aquaculture mod.
 [aquaculture]
 
@@ -7992,6 +7950,22 @@
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
 		allowSpawnEggs = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+#Options for the xercamusic mod.
+[xercamusic]
+
+	#Spawning options for xercamusic:music_spirit
+	[xercamusic.music_spirit]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
 
