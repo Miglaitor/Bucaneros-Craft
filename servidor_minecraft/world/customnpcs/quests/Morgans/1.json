@@ -2,7 +2,7 @@
     "CompleterNpc": "Morgans",
     "NextQuestId": -1,
     "RandomReward": 0b,
-    "QuestRepeat": 0,
+    "QuestRepeat": 1,
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Bounty",
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1744823216544L,
+        "TimePast": 1744823489982L,
         "Time": 0L,
         "Subject": ""
     },
@@ -51,5 +51,6 @@
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Vuelve con Morgans"
+    "CompleteText": "Aquí tienes!
+Rompelo con pico para conseguir el póster"
 }
