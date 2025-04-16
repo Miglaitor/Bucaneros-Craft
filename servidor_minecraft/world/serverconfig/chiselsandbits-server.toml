@@ -8,10 +8,6 @@
 
 			[server.balancing.server.balancing]
 
-				[server.balancing.server.balancing.random-ticking-blocks]
-					#server.balancing.random-ticking-blocks.blacklisted
-					blacklisted = false
-
 				[server.balancing.server.balancing.compatibility-mode]
 					#server.balancing.compatibility-mode.enabled
 					enabled = false
@@ -25,6 +21,10 @@
 					#mod.chiselsandbits.config.server.balancing.server.balancing.change-tracker.size.comment
 					#Range: 20 ~ 40
 					size = 20
+
+				[server.balancing.server.balancing.random-ticking-blocks]
+					#server.balancing.random-ticking-blocks.blacklisted
+					blacklisted = false
 
 	[server.server]
 
