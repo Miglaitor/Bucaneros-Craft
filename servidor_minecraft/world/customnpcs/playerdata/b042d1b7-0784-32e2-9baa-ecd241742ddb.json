@@ -177,22 +177,31 @@
             },
             {
                 "Quest": 3,
-                "Date": 220499L
+                "Date": 230725L
             },
             {
                 "Quest": 4,
-                "Date": 220847L
+                "Date": 231022L
             },
             {
                 "Quest": 5,
-                "Date": 221095L
+                "Date": 231146L
             }
         ],
         "ActiveQuests": [
+            {
+                "QuestCompleted": 0b,
+                "ExtraData": {
+                },
+                "Quest": 6
+            }
         ]
     },
     "PlayerCompanionId": 0,
     "DialogData": [
+        {
+            "Dialog": 16
+        },
         {
             "Dialog": 4
         },

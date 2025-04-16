@@ -1,6 +1,6 @@
 {
     "DialogShowWheel": 0b,
-    "AvailabilityQuestId": 6,
+    "AvailabilityQuestId": -1,
     "Options": [
         {
             "OptionSlot": 0,
@@ -28,7 +28,7 @@
     "AvailabilityFactionStance": 0,
     "AvailabilityScoreboard2Value": 1,
     "DialogId": 14,
-    "AvailabilityQuest": 2,
+    "AvailabilityQuest": 0,
     "AvailabilityDialog4": 0,
     "AvailabilityScoreboardObjective": "",
     "AvailabilityDialog3": 0,
@@ -49,13 +49,13 @@
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
     "DialogTitle": "molino 1",
-    "AvailabilityDialog": 0,
+    "AvailabilityDialog": 2,
     "AvailabilityScoreboard2Type": 1,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
     "AvailabilityFaction2Stance": 0,
     "DialogCommand": "",
-    "AvailabilityDialogId": -1,
+    "AvailabilityDialogId": 15,
     "OptionFaction2Points": 100,
     "DialogText": "puedes ir a el molino a moler un poco de trigo?
 si sigues el camino de tierra lo encontraras.",
@@ -75,7 +75,7 @@ si sigues el camino de tierra lo encontraras.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1744844864053L,
+        "TimePast": 1744845290917L,
         "Time": 0L,
         "Subject": ""
     }

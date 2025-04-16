@@ -2,10 +2,11 @@
     "CompleterNpc": "Yuzawa Kaho",
     "NextQuestId": -1,
     "RandomReward": 0b,
-    "QuestRepeat": 0,
-    "QuestCompletion": 0,
+    "QuestRepeat": 1,
+    "QuestCompletion": 1,
+    "IgnoreNBT": 0b,
     "Title": "Fin",
-    "Text": "",
+    "Text": "Dale la harina a Yuzawa",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -16,14 +17,8 @@
     },
     "RewardExp": 100,
     "QuestCommand": "",
-    "QuestDialogs": [
-        {
-            "Integer": 17,
-            "Slot": 0
-        }
-    ],
     "ModRev": 18,
-    "Type": 1,
+    "Type": 0,
     "QuestMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -32,27 +27,20 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1744844816799L,
+        "TimePast": 1744845468272L,
         "Time": 0L,
         "Subject": ""
     },
+    "IgnoreDamage": 0b,
     "Rewards": {
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "ForgeCaps": {
-                    "customnpcs:itemscripteddata": {
-                    }
-                },
                 "id": "coins:coin_iron",
                 "Count": 2b
             },
             {
                 "Slot": 1b,
-                "ForgeCaps": {
-                    "customnpcs:itemscripteddata": {
-                    }
-                },
                 "id": "farmersdelight:dumplings",
                 "Count": 5b,
                 "tag": {
@@ -64,5 +52,16 @@
             }
         ]
     },
-    "CompleteText": ""
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "create:wheat_flour",
+                "Count": 15b
+            }
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "Muchas gracias de verdad!!
+aqui esta tu recompensa"
 }

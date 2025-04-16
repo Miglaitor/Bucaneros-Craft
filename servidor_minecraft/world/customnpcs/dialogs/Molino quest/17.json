@@ -1,6 +1,6 @@
 {
     "DialogShowWheel": 0b,
-    "AvailabilityQuestId": 6,
+    "AvailabilityQuestId": -1,
     "Options": [
     ],
     "AvailabilityScoreboardType": 1,
@@ -8,7 +8,7 @@
     "AvailabilityFactionStance": 0,
     "AvailabilityScoreboard2Value": 1,
     "DialogId": 17,
-    "AvailabilityQuest": 3,
+    "AvailabilityQuest": 0,
     "AvailabilityDialog4": 0,
     "AvailabilityScoreboardObjective": "",
     "AvailabilityDialog3": 0,
@@ -55,7 +55,7 @@ aqui esta tu recompensa",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1744844888007L,
+        "TimePast": 1744845511968L,
         "Time": 0L,
         "Subject": ""
     }
