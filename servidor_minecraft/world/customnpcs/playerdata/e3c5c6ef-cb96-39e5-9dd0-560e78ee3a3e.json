@@ -11,12 +11,19 @@
     ],
     "QuestData": {
         "CompletedQuests": [
+            {
+                "Quest": 2,
+                "Date": 110194L
+            }
         ],
         "ActiveQuests": [
         ]
     },
     "PlayerCompanionId": 0,
     "DialogData": [
+        {
+            "Dialog": 8
+        }
     ],
     "ItemGiverChained": [
     ],

@@ -11357,6 +11357,12 @@
     },
     "done": true
   },
+  "create:its_alive": {
+    "criteria": {
+      "0": "2025-04-16 21:27:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"

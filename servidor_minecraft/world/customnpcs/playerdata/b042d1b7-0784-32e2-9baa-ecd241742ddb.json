@@ -173,6 +173,12 @@
             }
         ],
         "ActiveQuests": [
+            {
+                "QuestCompleted": 0b,
+                "ExtraData": {
+                },
+                "Quest": 2
+            }
         ]
     },
     "PlayerCompanionId": 0,
@@ -185,6 +191,9 @@
         },
         {
             "Dialog": 6
+        },
+        {
+            "Dialog": 8
         }
     ],
     "ItemGiverChained": [
