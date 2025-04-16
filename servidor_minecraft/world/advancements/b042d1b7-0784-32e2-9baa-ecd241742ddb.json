@@ -4655,6 +4655,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_item": "2025-04-16 20:34:06 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/food/turtle_soup": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
