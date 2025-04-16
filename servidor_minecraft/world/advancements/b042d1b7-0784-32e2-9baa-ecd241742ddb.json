@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-04-16 17:52:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/diorite_cobblestone_slab_from_diorite_cobblestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
@@ -6887,6 +6893,12 @@
     },
     "done": true
   },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-04-16 17:52:33 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
@@ -7613,6 +7625,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_oak": {
+    "criteria": {
+      "has_plank": "2025-04-16 17:52:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
@@ -8126,6 +8144,12 @@
   "create:recipes/create.palettes/overgrown_limestone_from_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_oak": {
+    "criteria": {
+      "has_plank": "2025-04-16 17:52:29 +0000"
     },
     "done": true
   },
