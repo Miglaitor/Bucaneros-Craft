@@ -2,11 +2,11 @@
     "CompleterNpc": "vasile el leñador",
     "NextQuestId": -1,
     "RandomReward": 0b,
-    "QuestRepeat": 0,
+    "QuestRepeat": 4,
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "vasile side quest",
-    "Text": "",
+    "Text": "tronco, ayuda a tu tronco a conseguir troncos, tronco",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1744839460454L,
+        "TimePast": 1744840076248L,
         "Time": 0L,
         "Subject": ""
     },
@@ -55,5 +55,6 @@
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "gracias tronco, ahora metetelos por el culo"
+    "CompleteText": "YA HAS CONSEGUIDO LOS TRONCOS!!!
+ya te los puedes meter por el culo"
 }

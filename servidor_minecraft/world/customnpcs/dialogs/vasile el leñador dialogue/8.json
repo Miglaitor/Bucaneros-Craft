@@ -6,8 +6,8 @@
             "OptionSlot": 0,
             "Option": {
                 "DialogCommand": "",
-                "Dialog": -1,
-                "Title": "gracias tronco",
+                "Dialog": 10,
+                "Title": "vale...",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -16,8 +16,8 @@
             "OptionSlot": 1,
             "Option": {
                 "DialogCommand": "",
-                "Dialog": -1,
-                "Title": "NO?!?! TE VOY A CORTAR, TRONCO",
+                "Dialog": 11,
+                "Title": "vete a la mierda tronco...",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "hola tronco, ayudame a conseguir 34 troncos de oak y te doy una recompensa jugosa, tronco",
+    "DialogText": "que pasa tronco, me ayudas a conseguir troncos? jaja",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -74,7 +74,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1744839402952L,
+        "TimePast": 1744839935905L,
         "Time": 0L,
         "Subject": ""
     }
