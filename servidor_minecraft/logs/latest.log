@@ -3198,3 +3198,15 @@ java.lang.NullPointerException: null
 [16Apr2025 16:54:18.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Miglaitor_ left the game
 [16Apr2025 16:54:18.668] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of b042d1b7-0784-32e2-9baa-ecd241742ddb was unloaded
 [16Apr2025 16:54:18.745] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Miglaitor_
+[16Apr2025 16:57:29.823] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1db28659
+[16Apr2025 16:57:29.869] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Miglaitor_[/100.73.60.56:57693] logged in with entity id 4511 at (346.5327340004214, 71.875, 134.52644625100007)
+[16Apr2025 16:57:29.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Miglaitor_ joined the game
+[16Apr2025 16:57:30.102] [Server thread/INFO] [Waila/]: Syncing config to Miglaitor_ (b042d1b7-0784-32e2-9baa-ecd241742ddb)
+[16Apr2025 16:57:30.396] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Miglaitor_ (18)
+[16Apr2025 16:57:30.397] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Miglaitor_
+[16Apr2025 16:57:30.545] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of b042d1b7-0784-32e2-9baa-ecd241742ddb was loaded
+[16Apr2025 16:57:33.971] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b042d1b7-0784-32e2-9baa-ecd241742ddb
+[16Apr2025 16:57:34.971] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b042d1b7-0784-32e2-9baa-ecd241742ddb
+[16Apr2025 16:57:34.972] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Miglaitor_ (b042d1b7-0784-32e2-9baa-ecd241742ddb) successfully connected to voice chat
+[16Apr2025 16:58:02.997] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: Miglaitor_/we_news_1.nbt
+[16Apr2025 17:01:49.182] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/4530, l='ServerLevel[world]', x=344.15, y=68.00, z=156.08] died, message: 'Villager was slain by Zombie'
