@@ -3551,6 +3551,12 @@
     },
     "done": true
   },
+  "create:windmill": {
+    "criteria": {
+      "0": "2025-04-16 22:19:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sponge": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:13 +0000"
@@ -10670,6 +10676,12 @@
   "minecraft:recipes/decorations/black_glazed_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
+    },
+    "done": true
+  },
+  "create:millstone": {
+    "criteria": {
+      "0": "2025-04-16 22:19:54 +0000"
     },
     "done": true
   },

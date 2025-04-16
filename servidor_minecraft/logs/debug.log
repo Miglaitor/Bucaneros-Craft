@@ -16975,3 +16975,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Apr2025 22:16:13.735] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client marcosbigpapa
 [16Apr2025 22:16:13.735] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player marcosbigpapa[e3c5c6ef-cb96-39e5-9dd0-560e78ee3a3e]
 [16Apr2025 22:17:33.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Teleported Miglaitor_ to 68.0, 65.0, -32.0]
+[16Apr2025 22:20:16.366] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[16Apr2025 22:20:16.377] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[16Apr2025 22:25:16.088] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[16Apr2025 22:25:16.098] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[16Apr2025 22:29:08.026] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Teleported Miglaitor_ to 254.0, 67.0, 84.0]
