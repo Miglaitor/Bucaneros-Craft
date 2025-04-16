@@ -14,9 +14,13 @@
         "OptionFaction1Points": 100,
         "DecreaseFaction2Points": 0b
     },
-    "RewardExp": 0,
+    "RewardExp": 100,
     "QuestCommand": "",
     "QuestDialogs": [
+        {
+            "Integer": 17,
+            "Slot": 0
+        }
     ],
     "ModRev": 18,
     "Type": 1,
@@ -28,12 +32,36 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1744844342772L,
+        "TimePast": 1744844816799L,
         "Time": 0L,
         "Subject": ""
     },
     "Rewards": {
         "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "coins:coin_iron",
+                "Count": 2b
+            },
+            {
+                "Slot": 1b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "farmersdelight:dumplings",
+                "Count": 5b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Name": "{\"text\":\"Yuzawa's steamy buns\"}"
+                    }
+                }
+            }
         ]
     },
     "CompleteText": ""

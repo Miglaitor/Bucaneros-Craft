@@ -16992,3 +16992,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Apr2025 22:50:16.145] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [16Apr2025 22:55:16.219] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [16Apr2025 22:55:16.230] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[16Apr2025 23:00:16.226] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[16Apr2025 23:00:16.239] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[16Apr2025 23:05:16.244] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[16Apr2025 23:05:16.254] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[16Apr2025 23:08:27.116] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set the time to 1000]

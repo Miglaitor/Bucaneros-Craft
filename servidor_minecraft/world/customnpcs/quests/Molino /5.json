@@ -1,6 +1,6 @@
 {
     "CompleterNpc": "Yuzawa Kaho",
-    "NextQuestId": -1,
+    "NextQuestId": 6,
     "RandomReward": 0b,
     "QuestRepeat": 1,
     "QuestCompletion": 1,
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1744844283919L,
+        "TimePast": 1744844821467L,
         "Time": 0L,
         "Subject": ""
     },
@@ -45,7 +45,7 @@
             }
         ]
     },
-    "LeaveItems": 0b,
+    "LeaveItems": 1b,
     "CompleteText": "Vuelve a hablar con Yuzawa
 "
 }

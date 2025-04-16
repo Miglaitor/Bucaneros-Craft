@@ -1,6 +1,6 @@
 {
     "DialogShowWheel": 0b,
-    "AvailabilityQuestId": -1,
+    "AvailabilityQuestId": 6,
     "Options": [
         {
             "OptionSlot": 0,
@@ -28,7 +28,7 @@
     "AvailabilityFactionStance": 0,
     "AvailabilityScoreboard2Value": 1,
     "DialogId": 14,
-    "AvailabilityQuest": 0,
+    "AvailabilityQuest": 2,
     "AvailabilityDialog4": 0,
     "AvailabilityScoreboardObjective": "",
     "AvailabilityDialog3": 0,
@@ -75,7 +75,7 @@ si sigues el camino de tierra lo encontraras.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1744843541466L,
+        "TimePast": 1744844864053L,
         "Time": 0L,
         "Subject": ""
     }

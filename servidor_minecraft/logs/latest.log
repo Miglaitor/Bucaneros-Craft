@@ -2628,3 +2628,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Apr2025 22:16:13.735] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player marcosbigpapa[e3c5c6ef-cb96-39e5-9dd0-560e78ee3a3e]
 [16Apr2025 22:17:33.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Teleported Miglaitor_ to 68.0, 65.0, -32.0]
 [16Apr2025 22:29:08.026] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Teleported Miglaitor_ to 254.0, 67.0, 84.0]
+[16Apr2025 23:08:27.116] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set the time to 1000]
