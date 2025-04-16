@@ -170,15 +170,13 @@
             {
                 "Quest": 1,
                 "Date": 26839L
+            },
+            {
+                "Quest": 2,
+                "Date": 127661L
             }
         ],
         "ActiveQuests": [
-            {
-                "QuestCompleted": 0b,
-                "ExtraData": {
-                },
-                "Quest": 2
-            }
         ]
     },
     "PlayerCompanionId": 0,
@@ -194,6 +192,9 @@
         },
         {
             "Dialog": 8
+        },
+        {
+            "Dialog": 10
         }
     ],
     "ItemGiverChained": [

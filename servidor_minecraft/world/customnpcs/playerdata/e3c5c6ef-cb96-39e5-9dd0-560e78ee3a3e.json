@@ -4,6 +4,10 @@
     "NpcsTimers": [
     ],
     "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        }
     ],
     "BankData": [
     ],
@@ -13,7 +17,7 @@
         "CompletedQuests": [
             {
                 "Quest": 2,
-                "Date": 110194L
+                "Date": 1744840086705L
             }
         ],
         "ActiveQuests": [
@@ -23,6 +27,12 @@
     "DialogData": [
         {
             "Dialog": 8
+        },
+        {
+            "Dialog": 10
+        },
+        {
+            "Dialog": 11
         }
     ],
     "ItemGiverChained": [
