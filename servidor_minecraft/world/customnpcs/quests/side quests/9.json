@@ -1,12 +1,12 @@
 {
-    "CompleterNpc": "",
+    "CompleterNpc": "Ángela Vinieto",
     "NextQuestId": -1,
     "RandomReward": 0b,
     "QuestRepeat": 0,
-    "QuestCompletion": 0,
-    "IgnoreNBT": 0b,
+    "QuestCompletion": 1,
     "Title": "bolita de nieve2",
-    "Text": "",
+    "Text": "cuentale las noticias a la niña...
+",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -15,10 +15,16 @@
         "OptionFaction1Points": 100,
         "DecreaseFaction2Points": 0b
     },
-    "RewardExp": 0,
+    "RewardExp": 100,
     "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Integer": 23,
+            "Slot": 0
+        }
+    ],
     "ModRev": 18,
-    "Type": 0,
+    "Type": 1,
     "QuestMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -27,19 +33,13 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1744901819397L,
+        "TimePast": 1744902241311L,
         "Time": 0L,
         "Subject": ""
     },
-    "IgnoreDamage": 0b,
     "Rewards": {
         "NpcMiscInv": [
         ]
     },
-    "Items": {
-        "NpcMiscInv": [
-        ]
-    },
-    "LeaveItems": 0b,
     "CompleteText": ""
 }
