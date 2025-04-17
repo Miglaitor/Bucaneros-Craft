@@ -6,7 +6,7 @@
             "OptionSlot": 0,
             "Option": {
                 "DialogCommand": "",
-                "Dialog": -1,
+                "Dialog": 13,
                 "Title": "vale...",
                 "DialogColor": 14737632,
                 "OptionType": 1
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "mis animales tienen hambre...me puedes traer un poco de trigo? y cuando digo un poco es un stack",
+    "DialogText": "mis animales tienen hambre...hmm, me puedes traer un poco de trigo...hmm? y cuando digo un poco es un stack... hmmm",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -74,7 +74,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1744841749956L,
+        "TimePast": 1744899189893L,
         "Time": 0L,
         "Subject": ""
     }

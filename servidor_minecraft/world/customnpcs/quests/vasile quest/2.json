@@ -15,7 +15,7 @@
         "OptionFaction1Points": 100,
         "DecreaseFaction2Points": 0b
     },
-    "RewardExp": 10,
+    "RewardExp": 25,
     "QuestCommand": "",
     "ModRev": 18,
     "Type": 0,
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1744840076248L,
+        "TimePast": 1744899054659L,
         "Time": 0L,
         "Subject": ""
     },
