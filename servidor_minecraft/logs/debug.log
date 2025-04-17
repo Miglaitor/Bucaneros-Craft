@@ -15756,3 +15756,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Apr2025 10:32:44.873] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [17Apr2025 10:32:44.888] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [17Apr2025 10:33:40.723] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Successfully filled 341 blocks]
+[17Apr2025 10:36:47.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set the time to 1000]
+[17Apr2025 10:36:47.731] [Server thread/INFO] [sereneseasons/]: Season time skipped by 12214 in minecraft:overworld
+[17Apr2025 10:36:47.760] [Server thread/INFO] [sereneseasons/]: Season time skipped by 12214 in minecraft:the_nether
+[17Apr2025 10:36:47.761] [Server thread/INFO] [sereneseasons/]: Season time skipped by 12214 in minecraft:the_end
+[17Apr2025 10:36:47.761] [Server thread/INFO] [sereneseasons/]: Season time skipped by 12214 in mineminenomi:challenges
+[17Apr2025 10:37:44.508] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17Apr2025 10:37:44.519] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[17Apr2025 10:40:39.226] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Successfully filled 62 blocks]
+[17Apr2025 10:42:44.388] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17Apr2025 10:42:44.401] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

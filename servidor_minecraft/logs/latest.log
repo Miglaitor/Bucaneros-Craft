@@ -2514,3 +2514,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Apr2025 10:28:03.216] [Worker-Main-6/INFO] [bettercaves/]: Using block 'Block{minecraft:water}[level=0]' as water in cave generation for dimension minecraft:overworld
 [17Apr2025 10:30:15.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Applied effect Strength to Miglaitor_]
 [17Apr2025 10:33:40.723] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Successfully filled 341 blocks]
+[17Apr2025 10:36:47.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set the time to 1000]
+[17Apr2025 10:36:47.731] [Server thread/INFO] [sereneseasons/]: Season time skipped by 12214 in minecraft:overworld
+[17Apr2025 10:36:47.760] [Server thread/INFO] [sereneseasons/]: Season time skipped by 12214 in minecraft:the_nether
+[17Apr2025 10:36:47.761] [Server thread/INFO] [sereneseasons/]: Season time skipped by 12214 in minecraft:the_end
+[17Apr2025 10:36:47.761] [Server thread/INFO] [sereneseasons/]: Season time skipped by 12214 in mineminenomi:challenges
+[17Apr2025 10:40:39.226] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Successfully filled 62 blocks]
