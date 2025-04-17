@@ -2,7 +2,7 @@
     "CompleterNpc": "Yuzawa Kaho",
     "NextQuestId": 4,
     "RandomReward": 0b,
-    "QuestRepeat": 1,
+    "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Ayuda a Yuzawa",
     "Text": "",
@@ -32,7 +32,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1744844273268L,
+        "TimePast": 1744846144448L,
         "Time": 0L,
         "Subject": ""
     },

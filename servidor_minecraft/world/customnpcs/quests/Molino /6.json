@@ -2,8 +2,8 @@
     "CompleterNpc": "Yuzawa Kaho",
     "NextQuestId": -1,
     "RandomReward": 0b,
-    "QuestRepeat": 1,
-    "QuestCompletion": 1,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Fin",
     "Text": "Dale la harina a Yuzawa",
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1744845468272L,
+        "TimePast": 1744846150448L,
         "Time": 0L,
         "Subject": ""
     },

@@ -4,7 +4,7 @@
     "QuestLocation3": "",
     "RandomReward": 0b,
     "QuestLocation2": "",
-    "QuestRepeat": 1,
+    "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Encuentra el viejo molino",
     "Text": "Ve al molino siguiendo el camino de tierra
@@ -29,7 +29,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1744844224997L,
+        "TimePast": 1744885145105L,
         "Time": 0L,
         "Subject": ""
     },

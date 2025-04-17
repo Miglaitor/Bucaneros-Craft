@@ -2,7 +2,7 @@
     "CompleterNpc": "Yuzawa Kaho",
     "NextQuestId": 6,
     "RandomReward": 0b,
-    "QuestRepeat": 1,
+    "QuestRepeat": 0,
     "QuestCompletion": 1,
     "IgnoreNBT": 0b,
     "Title": "harina",
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1744844821467L,
+        "TimePast": 1744846153352L,
         "Time": 0L,
         "Subject": ""
     },
