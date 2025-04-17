@@ -194,6 +194,14 @@
             {
                 "Quest": 7,
                 "Date": 338567L
+            },
+            {
+                "Quest": 8,
+                "Date": 397529L
+            },
+            {
+                "Quest": 9,
+                "Date": 399061L
             }
         ],
         "ActiveQuests": [
@@ -201,18 +209,6 @@
     },
     "PlayerCompanionId": 0,
     "DialogData": [
-        {
-            "Dialog": 16
-        },
-        {
-            "Dialog": 17
-        },
-        {
-            "Dialog": 18
-        },
-        {
-            "Dialog": 19
-        },
         {
             "Dialog": 4
         },
@@ -236,6 +232,30 @@
         },
         {
             "Dialog": 14
+        },
+        {
+            "Dialog": 16
+        },
+        {
+            "Dialog": 17
+        },
+        {
+            "Dialog": 18
+        },
+        {
+            "Dialog": 19
+        },
+        {
+            "Dialog": 20
+        },
+        {
+            "Dialog": 21
+        },
+        {
+            "Dialog": 23
+        },
+        {
+            "Dialog": 24
         }
     ],
     "ItemGiverChained": [
