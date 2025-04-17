@@ -140,12 +140,16 @@
             }
         ]
     },
-    "HurtByTimestamp": 473,
+    "HurtByTimestamp": 6270,
     "pSpin": 0b,
     "NpcHurtSound": "minecraft:entity.player.hurt",
     "pTrail": 0,
     "CreatureType": 0,
     "Attributes": [
+        {
+            "Base": 0.0d,
+            "Name": "mineminenomi:generic.fall_resistance"
+        },
         {
             "Base": 20.0d,
             "Name": "minecraft:generic.max_health"
@@ -511,7 +515,7 @@
             "ScaleZ": 1.0f,
             "TransZ": 0.0f,
             "TransY": 0.0f,
-            "TransX": 0.0f,
+            "TransX": 0.012000002f,
             "ScaleY": 1.0f,
             "ScaleX": 1.0f
         },
@@ -527,7 +531,7 @@
         "Eyes": {
             "Pattern": 0b,
             "Glint": 1b,
-            "Type": 0b,
+            "Type": -1b,
             "PositionY": 1,
             "SkinColor": 11830381,
             "PlayerTexture": 0b,
@@ -542,6 +546,13 @@
             "Color": 16777215
         },
         "Parts": [
+            {
+                "Pattern": 0b,
+                "Type": 2b,
+                "PlayerTexture": 0b,
+                "PartName": "hair",
+                "Color": 14288648
+            }
         ],
         "SimpleRender": 0b,
         "ArmsConfig": {
@@ -669,8 +680,8 @@
     "MovingPause": 1b,
     "NpcDeathSound": "minecraft:entity.player.hurt",
     "FactionID": 0,
-    "Title": "Patreon",
-    "TotalTicksAlive": 924L,
+    "Title": "",
+    "TotalTicksAlive": 7375L,
     "Rotation": [
         33.58718f,
         0.0f
