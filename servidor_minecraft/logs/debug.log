@@ -15707,3 +15707,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Apr2025 13:53:03.103] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [17Apr2025 13:53:23.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: +8000 belly for Miglaitor_]
 [17Apr2025 13:55:37.451] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: +24000 belly for Miglaitor_]
+[17Apr2025 13:57:11.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: +100000 belly for Miglaitor_]
+[17Apr2025 13:58:02.760] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17Apr2025 13:58:02.776] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[17Apr2025 14:00:40.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: +100000 belly for Miglaitor_]
+[17Apr2025 14:03:02.776] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17Apr2025 14:03:02.790] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[17Apr2025 14:05:34.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: +10000 belly for Miglaitor_]

@@ -2514,3 +2514,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Apr2025 13:48:41.219] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Miglaitor_ (b042d1b7-0784-32e2-9baa-ecd241742ddb) successfully connected to voice chat
 [17Apr2025 13:53:23.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: +8000 belly for Miglaitor_]
 [17Apr2025 13:55:37.451] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: +24000 belly for Miglaitor_]
+[17Apr2025 13:57:11.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: +100000 belly for Miglaitor_]
+[17Apr2025 14:00:40.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: +100000 belly for Miglaitor_]
+[17Apr2025 14:05:34.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: +10000 belly for Miglaitor_]
