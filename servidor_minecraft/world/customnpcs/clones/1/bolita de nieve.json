@@ -1,0 +1,725 @@
+{
+    "ReturnToStart": 1b,
+    "Brain": {
+        "memories": {
+        }
+    },
+    "NpcInv": [
+    ],
+    "BossColor": 0,
+    "PotionEffect": 0,
+    "Size": 5,
+    "stopAndInteract": 1b,
+    "Resistances": {
+        "Arrow": 1.0f,
+        "Explosion": 1.0f,
+        "Knockback": 1.0f,
+        "Melee": 1.0f
+    },
+    "BossBar": 0b,
+    "RespawnTime": 20,
+    "NpcAngrySound": "",
+    "ReactsToFire": 0b,
+    "IgnoreCobweb": 0b,
+    "PositionOffsetZ": 5.0f,
+    "PositionOffsetY": 5.0f,
+    "PositionOffsetX": 5.0f,
+    "CanUpdate": 1b,
+    "LootMode": 0,
+    "TransformHasAI": 0b,
+    "AttackStrenght": 5,
+    "PersistenceRequired": 0b,
+    "id": "customnpcs:customnpc",
+    "IsStatue": 0b,
+    "MovingPatern": 0,
+    "NpcLines": {
+        "Lines": [
+        ]
+    },
+    "DefendFaction": 0b,
+    "FireIndirect": 0,
+    "NpcVisible": 0,
+    "LinkedNpcName": "",
+    "NpcScenes": {
+        "Scenes": [
+        ]
+    },
+    "HitSound": "minecraft:entity.arrow.hit",
+    "FindShelter": 2,
+    "Air": 300s,
+    "CitadelData": {
+    },
+    "Orientation": 0,
+    "ScriptLanguage": "ECMAScript",
+    "HandItems": [
+        {
+        },
+        {
+        }
+    ],
+    "KnockBack": 0,
+    "TransformHasJob": 0b,
+    "ArmorDropChances": [
+        0.085f,
+        0.085f,
+        0.085f,
+        0.085f
+    ],
+    "BurnInSun": 0b,
+    "StandingState": 0,
+    "AttackInvisible": 0b,
+    "NpcInteractNPCLines": {
+        "Lines": [
+        ]
+    },
+    "HurtTime": 0s,
+    "WalkingRange": 10,
+    "ShotCount": 1,
+    "pDur": 5,
+    "AttackRange": 2,
+    "NpcKillLines": {
+        "Lines": [
+        ]
+    },
+    "PotionImmune": 0b,
+    "AvoidsSun": 0b,
+    "Texture": "minecraft:textures/entity/cat/black.png",
+    "NpcJob": 0,
+    "BurstCount": 1,
+    "NpcAttackLines": {
+        "Lines": [
+        ]
+    },
+    "pSpeed": 10,
+    "pArea": 0,
+    "DeathTime": 0s,
+    "pImpact": 0,
+    "MoveState": 2,
+    "pRender3D": 1b,
+    "Motion": [
+        0.0d,
+        -0.0784000015258789d,
+        0.0d
+    ],
+    "CombatRegen": 0,
+    "NpcsTimers": [
+    ],
+    "MarkovGender": 0,
+    "pEffect": 0,
+    "DistanceToMelee": 0,
+    "NpcStepSound": "",
+    "FireRate": 5,
+    "LeftHanded": 0b,
+    "pEffAmp": 0,
+    "OnGround": 1b,
+    "ImmuneToFire": 0b,
+    "NpcKilledLines": {
+        "Lines": [
+        ]
+    },
+    "Fire": -1s,
+    "ArmorItems": [
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        }
+    ],
+    "DisablePitch": 0b,
+    "pPhysics": 1b,
+    "TransformHasInv": 0b,
+    "NpcInteractLines": {
+        "Lines": [
+            {
+                "Line": "Hello @p",
+                "Song": "",
+                "Slot": 0
+            }
+        ]
+    },
+    "HurtByTimestamp": 9178,
+    "pSpin": 0b,
+    "NpcHurtSound": "minecraft:entity.player.hurt",
+    "pTrail": 0,
+    "CreatureType": 0,
+    "Attributes": [
+        {
+            "Base": 0.0d,
+            "Name": "mineminenomi:generic.fall_resistance"
+        },
+        {
+            "Base": 0.0d,
+            "Name": "minecraft:generic.max_health"
+        },
+        {
+            "Base": 5.0d,
+            "Name": "minecraft:generic.attack_damage"
+        },
+        {
+            "Base": 0.5d,
+            "Name": "minecraft:generic.flying_speed"
+        },
+        {
+            "Base": 0.6d,
+            "Name": "mineminenomi:generic.step_height"
+        },
+        {
+            "Base": 0.08d,
+            "Name": "forge:entity_gravity"
+        },
+        {
+            "Base": 32.0d,
+            "Name": "minecraft:generic.follow_range"
+        },
+        {
+            "Base": 0.25d,
+            "Name": "minecraft:generic.movement_speed"
+        }
+    ],
+    "Invulnerable": 0b,
+    "TransformHasDisplay": 0b,
+    "NoFallDamage": 0b,
+    "AbsorptionAmount": 0.0f,
+    "TransformHasRole": 0b,
+    "Name": "bolita de nieve",
+    "FallDistance": 0.0f,
+    "SkinColor": 16777215,
+    "NpcIdleSound": "",
+    "Weapons": [
+    ],
+    "NPCDialogOptions": [
+    ],
+    "AggroRange": 16,
+    "DirectLOS": 1b,
+    "HealthRegen": 1,
+    "ForgeCaps": {
+        "mineminenomi:animation_data": {
+        },
+        "mineminenomi:gcd": {
+            "onGCD": 0b
+        },
+        "mineminenomi:haki_data": {
+            "hakiOveruse": 0,
+            "kenHakiExp": 0.0f,
+            "busoHakiExp": 0.0f
+        },
+        "betterportals:entity_portal_info": {
+            "teleportCooldown": 0,
+            "entityIsInReclaimer": 0b,
+            "entityIsInPortal": 0b
+        },
+        "mineminenomi:devil_fruit": {
+            "zoanPoint": "",
+            "hasAwakenedFruit": 0b,
+            "devilFruit": "",
+            "hasYamiPower": 0b,
+            "version": 2
+        },
+        "mowziesmobs:ability": {
+        },
+        "mowziesmobs:frozen": {
+            "frozenYaw": 0.0f,
+            "freezeProgress": 0.0f,
+            "frozenPitch": 0.0f,
+            "freezeDecayDelay": 0,
+            "prevHasAI": 1b,
+            "frozenYawHead": 0.0f,
+            "frozen": 0b,
+            "frozenLimbSwingAmount": 0.0f,
+            "prevFrozen": 0b,
+            "frozenRenderYawOffset": 0.0f,
+            "frozenSwingProgress": 0.0f
+        },
+        "mineminenomi:entity_stats": {
+            "belly": 0L,
+            "invulnerableTime": 0,
+            "race": "",
+            "bounty": 0L,
+            "loyalty": 0.0d,
+            "subRace": "",
+            "cola": 100,
+            "damageMultiplier": 1.0d,
+            "hasShadow": 1b,
+            "isInCombatMode": 0b,
+            "isRogue": 0b,
+            "ultraCola": 0,
+            "hasHeart": 1b,
+            "doriki": 0.0d,
+            "faction": "",
+            "extol": 0L,
+            "hasStrawDoll": 1b,
+            "fightingStyle": ""
+        },
+        "citadel:extended_entity_data_citadel": {
+        },
+        "mineminenomi:ability_data": {
+            "unlocked_abilities": [
+            ],
+            "equipped_abilities": [
+                {
+                    "slot": 0
+                },
+                {
+                    "slot": 1
+                },
+                {
+                    "slot": 2
+                },
+                {
+                    "slot": 3
+                },
+                {
+                    "slot": 4
+                },
+                {
+                    "slot": 5
+                },
+                {
+                    "slot": 6
+                },
+                {
+                    "slot": 7
+                },
+                {
+                    "slot": 8
+                },
+                {
+                    "slot": 9
+                },
+                {
+                    "slot": 10
+                },
+                {
+                    "slot": 11
+                },
+                {
+                    "slot": 12
+                },
+                {
+                    "slot": 13
+                },
+                {
+                    "slot": 14
+                },
+                {
+                    "slot": 15
+                },
+                {
+                    "slot": 16
+                },
+                {
+                    "slot": 17
+                },
+                {
+                    "slot": 18
+                },
+                {
+                    "slot": 19
+                },
+                {
+                    "slot": 20
+                },
+                {
+                    "slot": 21
+                },
+                {
+                    "slot": 22
+                },
+                {
+                    "slot": 23
+                },
+                {
+                    "slot": 24
+                },
+                {
+                    "slot": 25
+                },
+                {
+                    "slot": 26
+                },
+                {
+                    "slot": 27
+                },
+                {
+                    "slot": 28
+                },
+                {
+                    "slot": 29
+                },
+                {
+                    "slot": 30
+                },
+                {
+                    "slot": 31
+                },
+                {
+                    "slot": 32
+                },
+                {
+                    "slot": 33
+                },
+                {
+                    "slot": 34
+                },
+                {
+                    "slot": 35
+                },
+                {
+                    "slot": 36
+                },
+                {
+                    "slot": 37
+                },
+                {
+                    "slot": 38
+                },
+                {
+                    "slot": 39
+                },
+                {
+                    "slot": 40
+                },
+                {
+                    "slot": 41
+                },
+                {
+                    "slot": 42
+                },
+                {
+                    "slot": 43
+                },
+                {
+                    "slot": 44
+                },
+                {
+                    "slot": 45
+                },
+                {
+                    "slot": 46
+                },
+                {
+                    "slot": 47
+                },
+                {
+                    "slot": 48
+                },
+                {
+                    "slot": 49
+                },
+                {
+                    "slot": 50
+                },
+                {
+                    "slot": 51
+                },
+                {
+                    "slot": 52
+                },
+                {
+                    "slot": 53
+                },
+                {
+                    "slot": 54
+                },
+                {
+                    "slot": 55
+                },
+                {
+                    "slot": 56
+                },
+                {
+                    "slot": 57
+                },
+                {
+                    "slot": 58
+                },
+                {
+                    "slot": 59
+                },
+                {
+                    "slot": 60
+                },
+                {
+                    "slot": 61
+                },
+                {
+                    "slot": 62
+                },
+                {
+                    "slot": 63
+                },
+                {
+                    "slot": 64
+                },
+                {
+                    "slot": 65
+                },
+                {
+                    "slot": 66
+                },
+                {
+                    "slot": 67
+                },
+                {
+                    "slot": 68
+                },
+                {
+                    "slot": 69
+                },
+                {
+                    "slot": 70
+                },
+                {
+                    "slot": 71
+                },
+                {
+                    "slot": 72
+                },
+                {
+                    "slot": 73
+                },
+                {
+                    "slot": 74
+                },
+                {
+                    "slot": 75
+                },
+                {
+                    "slot": 76
+                },
+                {
+                    "slot": 77
+                },
+                {
+                    "slot": 78
+                },
+                {
+                    "slot": 79
+                }
+            ],
+            "passive_abilities": [
+            ],
+            "combat_bar_set": 0
+        }
+    },
+    "HandDropChances": [
+        0.085f,
+        0.085f
+    ],
+    "NpcModelData": {
+        "LegsConfig": {
+            "NotShared": 0b,
+            "ScaleZ": 1.0f,
+            "TransZ": 0.0f,
+            "TransY": 0.0f,
+            "TransX": 0.012000002f,
+            "ScaleY": 1.0f,
+            "ScaleX": 1.0f
+        },
+        "BodyConfig": {
+            "NotShared": 0b,
+            "ScaleZ": 1.0f,
+            "TransZ": 0.0f,
+            "TransY": 0.0f,
+            "TransX": 0.0f,
+            "ScaleY": 1.0f,
+            "ScaleX": 1.0f
+        },
+        "Eyes": {
+            "Pattern": 0b,
+            "Glint": 1b,
+            "Type": 0b,
+            "PositionY": 1,
+            "SkinColor": 11830381,
+            "PlayerTexture": 0b,
+            "Color": 4210943,
+            "BrowColor": 5982516,
+            "BrowThickness": 4
+        },
+        "EntityName": "minecraft:cat",
+        "LegParts": {
+            "Pattern": 0b,
+            "Type": 0b,
+            "PlayerTexture": 0b,
+            "Color": 16777215
+        },
+        "Parts": [
+        ],
+        "SimpleRender": 0b,
+        "ArmsConfig": {
+            "NotShared": 0b,
+            "ScaleZ": 1.0f,
+            "TransZ": 0.0f,
+            "TransY": 0.0f,
+            "TransX": 0.0f,
+            "ScaleY": 1.0f,
+            "ScaleX": 1.0f
+        },
+        "ExtraData": {
+            "Age": 0
+        },
+        "HeadConfig": {
+            "NotShared": 0b,
+            "ScaleZ": 1.0f,
+            "TransZ": 0.0f,
+            "TransY": 0.0f,
+            "TransX": 0.0f,
+            "ScaleY": 1.0f,
+            "ScaleX": 1.0f
+        }
+    },
+    "VisibleAvailability": {
+        "AvailabilityQuestId": -1,
+        "AvailabilityScoreboardType": 1,
+        "AvailabilityFactionStance": 0,
+        "AvailabilityScoreboard2Value": 1,
+        "AvailabilityQuest": 0,
+        "AvailabilityDialog4": 0,
+        "AvailabilityScoreboardObjective": "",
+        "AvailabilityDialog3": 0,
+        "AvailabilityQuest2": 0,
+        "AvailabilityQuest3": 0,
+        "AvailabilityScoreboard2Objective": "",
+        "AvailabilityQuest4": 0,
+        "ModRev": 18,
+        "AvailabilityDialog2": 0,
+        "AvailabilityDayTime": 0,
+        "AvailabilityFaction2Id": -1,
+        "AvailabilityScoreboardValue": 1,
+        "AvailabilityFaction": 0,
+        "AvailabilityDialog": 0,
+        "AvailabilityScoreboard2Type": 1,
+        "AvailabilityFaction2": 0,
+        "AvailabilityFactionId": -1,
+        "AvailabilityFaction2Stance": 0,
+        "AvailabilityDialogId": -1,
+        "AvailabilityQuest4Id": -1,
+        "AvailabilityQuest3Id": -1,
+        "AvailabilityQuest2Id": -1,
+        "AvailabilityDialog2Id": -1,
+        "AvailabilityDialog3Id": -1,
+        "AvailabilityDialog4Id": -1,
+        "AvailabilityMinPlayerLevel": 0
+    },
+    "minDelay": 20,
+    "DoorInteract": 2,
+    "MoveSpeed": 5,
+    "TransformEditingModus": 0b,
+    "UsingSkinUrl": 2b,
+    "SkinUrl": "https://static.planetminecraft.com/files/source/minecraft/mob-skin/2024/241/cat-planetminecraft-com-18159169.png",
+    "CanSwim": 1b,
+    "GroundSound": "minecraft:block.stone.break",
+    "MaxHealth": 0,
+    "HideBodyWhenKilled": 0b,
+    "AttackSpeed": 20,
+    "PotionDuration": 5,
+    "maxDelay": 40,
+    "ScriptEnabled": 0b,
+    "Role": 0,
+    "DropChance": [
+        {
+            "Integer": 100,
+            "Slot": 0
+        },
+        {
+            "Integer": 100,
+            "Slot": 1
+        },
+        {
+            "Integer": 100,
+            "Slot": 2
+        },
+        {
+            "Integer": 100,
+            "Slot": 3
+        },
+        {
+            "Integer": 100,
+            "Slot": 4
+        },
+        {
+            "Integer": 100,
+            "Slot": 5
+        },
+        {
+            "Integer": 100,
+            "Slot": 6
+        },
+        {
+            "Integer": 100,
+            "Slot": 7
+        },
+        {
+            "Integer": 100,
+            "Slot": 8
+        }
+    ],
+    "FactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "pDamage": 4,
+    "KilledTime": 0L,
+    "AimWhileShooting": 0b,
+    "CanPickUpLoot": 0b,
+    "AttackOtherFactions": 0b,
+    "CanDrown": 1b,
+    "pSize": 5,
+    "CanSprint": 0b,
+    "CanLeap": 0b,
+    "TransformIsActive": 0b,
+    "ForgeData": {
+        "cnpcmarkdata": {
+            "marks": [
+            ]
+        }
+    },
+    "MovingState": 0,
+    "MovingPos": 0,
+    "PotionAmp": 0,
+    "OnAttack": 0,
+    "FallFlying": 0b,
+    "MaxExp": 0,
+    "OrderedLines": 0b,
+    "PortalCooldown": 0,
+    "pGlows": 0b,
+    "TransformHasAdvanced": 0b,
+    "TransformHasStats": 0b,
+    "MovementType": 0,
+    "FiringSound": "minecraft:entity.arrow.shoot",
+    "ModRev": 18,
+    "Accuracy": 60,
+    "MinExp": 0,
+    "Armor": [
+    ],
+    "CloakTexture": "",
+    "GlowTexture": "",
+    "MaxFiringRange": 15,
+    "pXlr8": 0b,
+    "MarkovGeneratorId": 9,
+    "Scripts": [
+    ],
+    "Health": 1.0f,
+    "pStick": 0b,
+    "MovingPause": 1b,
+    "NpcDeathSound": "minecraft:entity.player.hurt",
+    "FactionID": 0,
+    "Title": "",
+    "TotalTicksAlive": 9377L,
+    "Rotation": [
+        -325.05133f,
+        0.0f
+    ],
+    "ShowName": 0,
+    "npcInteracting": 1b,
+    "AvoidsWater": 0b,
+    "NoLivingAnimation": 1b,
+    "SpawnCycle": 0
+}
