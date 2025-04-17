@@ -16,7 +16,7 @@
             "OptionSlot": 1,
             "Option": {
                 "DialogCommand": "",
-                "Dialog": -1,
+                "Dialog": 18,
                 "Title": "no, ojala tus animales se mueran de cancer",
                 "DialogColor": 14737632,
                 "OptionType": 1
@@ -74,7 +74,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1744899189893L,
+        "TimePast": 1744899505998L,
         "Time": 0L,
         "Subject": ""
     }

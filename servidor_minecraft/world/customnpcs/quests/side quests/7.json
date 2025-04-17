@@ -2,11 +2,11 @@
     "CompleterNpc": "gabriel el de la granja",
     "NextQuestId": -1,
     "RandomReward": 0b,
-    "QuestRepeat": 0,
+    "QuestRepeat": 2,
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Trigo",
-    "Text": "",
+    "Text": "Consigue trigo para gabriel",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -15,7 +15,7 @@
         "OptionFaction1Points": 100,
         "DecreaseFaction2Points": 0b
     },
-    "RewardExp": 0,
+    "RewardExp": 25,
     "QuestCommand": "",
     "ModRev": 18,
     "Type": 0,
@@ -27,19 +27,29 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1744899011553L,
+        "TimePast": 1744899697794L,
         "Time": 0L,
         "Subject": ""
     },
     "IgnoreDamage": 0b,
     "Rewards": {
         "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "coins:coin_copper",
+                "Count": 6b
+            }
         ]
     },
     "Items": {
         "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "minecraft:wheat",
+                "Count": 64b
+            }
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": ""
+    "CompleteText": "Muchas gracias por el trigo... hmmmm"
 }

@@ -190,6 +190,10 @@
             {
                 "Quest": 6,
                 "Date": 239868L
+            },
+            {
+                "Quest": 7,
+                "Date": 338567L
             }
         ],
         "ActiveQuests": [
@@ -202,6 +206,9 @@
         },
         {
             "Dialog": 17
+        },
+        {
+            "Dialog": 18
         },
         {
             "Dialog": 4
@@ -220,6 +227,9 @@
         },
         {
             "Dialog": 12
+        },
+        {
+            "Dialog": 13
         },
         {
             "Dialog": 14
