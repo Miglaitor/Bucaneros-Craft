@@ -9773,6 +9773,12 @@
     },
     "done": true
   },
+  "chiselsandbits:chiselsandbits/root": {
+    "criteria": {
+      "chisel": "2025-04-17 14:39:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
