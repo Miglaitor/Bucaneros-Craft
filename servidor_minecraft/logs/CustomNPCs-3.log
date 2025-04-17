@@ -1,7 +1,13 @@
-[17:39:01][FINE/CustomNPCs][noppes.npcs.controllers.ScriptController:101] Wed Apr 16 17:39:01 UTC 2025
-[17:39:01][FINE/CustomNPCs][noppes.npcs.CustomNpcs:246] Script Engines Available:
-[17:39:01][FINE/CustomNPCs][noppes.npcs.CustomNpcs:246] ECMAScript: .js
-[17:39:38][FINE/CustomNPCs][noppes.npcs.controllers.LinkedNpcController:28] Loading Linked Npcs
-[17:39:38][FINE/CustomNPCs][noppes.npcs.controllers.LinkedNpcController:28] Done loading Linked Npcs
-[17:39:43][FINE/CustomNPCs][noppes.npcs.CustomNpcs:295] Loading Dialogs
-[17:39:43][FINE/CustomNPCs][noppes.npcs.CustomNpcs:295] Done loading Dialogs
+[21:19:43][FINE/CustomNPCs][noppes.npcs.controllers.ScriptController:101] Wed Apr 16 21:19:43 UTC 2025
+[21:19:43][FINE/CustomNPCs][noppes.npcs.CustomNpcs:246] Script Engines Available:
+[21:19:43][FINE/CustomNPCs][noppes.npcs.CustomNpcs:246] ECMAScript: .js
+[21:20:11][FINE/CustomNPCs][noppes.npcs.controllers.LinkedNpcController:28] Loading Linked Npcs
+[21:20:11][FINE/CustomNPCs][noppes.npcs.controllers.LinkedNpcController:28] Done loading Linked Npcs
+[21:20:15][FINE/CustomNPCs][noppes.npcs.CustomNpcs:295] Loading Dialogs
+[21:20:15][FINE/CustomNPCs][noppes.npcs.CustomNpcs:295] Done loading Dialogs
+[23:23:39][FINE/CustomNPCs][noppes.npcs.schematics.SpongeSchem:317] Creating schematic at: BlockPos{x=43, y=64, z=-45} might lag slightly
+[23:23:39][FINE/CustomNPCs][noppes.npcs.controllers.SchematicController:158] Schematic molino_roto succesfully created
+[23:24:00][FINE/CustomNPCs][noppes.npcs.schematics.SpongeSchem:317] Creating schematic at: BlockPos{x=43, y=64, z=-45} might lag slightly
+[23:24:00][FINE/CustomNPCs][noppes.npcs.controllers.SchematicController:158] Schematic molino_roto succesfully created
+[23:26:02][FINE/CustomNPCs][noppes.npcs.schematics.SpongeSchem:317] Creating schematic at: BlockPos{x=43, y=61, z=-45} might lag slightly
+[23:26:02][FINE/CustomNPCs][noppes.npcs.controllers.SchematicController:158] Schematic molino_roto succesfully created
